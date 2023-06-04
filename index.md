@@ -7,3 +7,7 @@ Isto é um _**commit**_
 ``` Python
 print ("Isto é um teste")
 ```
+
+- [ ] Criar uma task list
+- [ ] Colocar uma segunda entrada
+- [ ] E uma terceira
